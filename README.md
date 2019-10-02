@@ -1,0 +1,2 @@
+# noext
+Extended Norwegian keyboard
